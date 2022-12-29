@@ -1,0 +1,3 @@
+# firecourse
+
+it burns hut
